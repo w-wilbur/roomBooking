@@ -1,7 +1,8 @@
 # roomBooking
+
 This is a system of booking room.
 
-# 功能需求
+## 功能需求
 
 一个会议室预定系统。
 包含如下功能：
@@ -14,7 +15,7 @@ This is a system of booking room.
 * 时间、人员冲突检查。
 * 有一个管理员可以管理会议室列表，调整他人创建的会议计划。
 
-# 技术选型
+## 技术选型
 
 * 前端使用Vue.js(2.5) [webpack + vue.js + vuex + vue-router]
 * UI库采用ElementUI 2.0。
@@ -23,15 +24,14 @@ This is a system of booking room.
 * 数据库采用MongoDB。[Package](https://www.npmjs.com/package/mongoose)。
 * [认证模块](http://www.passportjs.org/docs/username-password)。
 
-# 部署方式
+## 部署方式
 
 * docker-compose。
 * 虚拟机安装Ubuntu。
 * Markdown写技术文档。
 * github.com用[git flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)。
 
-
-# stage 2:
+## stage 2
 
 * TS
 * WebSocket / GraphQL
