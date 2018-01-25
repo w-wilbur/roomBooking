@@ -11,6 +11,8 @@ Vue.use(Element)
 Vue.config.productionTip = false
 //在new分支上新添加一行
 
+// add a line in another branch
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
