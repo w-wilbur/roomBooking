@@ -10,6 +10,8 @@ Vue.use(Element)
 
 Vue.config.productionTip = false
 
+// add a line in another branch
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
