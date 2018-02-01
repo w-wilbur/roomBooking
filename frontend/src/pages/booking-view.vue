@@ -4,6 +4,10 @@
 
 <script>
 	export default {
-		data(){}
+		data(){
+			return {
+				href: 'http://www.wilbur-wang.com'
+			}
+		}
 	}
 </script>
